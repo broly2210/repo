@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731875839 source:c:\users\ashay\onedrive\documents\os assignments\synchronization problems\reader writer\main.c
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+
