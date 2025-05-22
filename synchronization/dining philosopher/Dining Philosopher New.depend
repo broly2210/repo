@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731873593 source:c:\users\ashay\onedrive\documents\os assignments\synchronization problems\dining philosopher new\main.c
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+
