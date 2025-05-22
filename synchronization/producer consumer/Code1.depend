@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728945146 source:c:\users\ashay\onedrive\documents\os assignments\synchronization problems\producer consumer problem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
